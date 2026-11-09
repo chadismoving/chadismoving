@@ -9,7 +9,7 @@ and building stuff that makes life a little easier.
 
 ## Things I've Built
 
-- **[Cloudflare AI SOC](https://github.com/chadismoving/cloudflare-ai-soc)** — A TypeScript security operations console and Worker runtime for Cloudflare zones, with evidence-backed investigations, policy-gated approvals, and a local simulation workbench — no Cloudflare account needed to try it.
+- **[Cloudflare AI SOC](https://github.com/chadismoving/cloudflare-ai-soc)** — When a Cloudflare website gets attacked, this helps you work out what happened, check the evidence, and decide what to do next — before anything is changed. You can try it with built-in practice attacks, no Cloudflare account needed.
 
 - **[AI Security Gateway Demo](https://github.com/chadismoving/ai-security-gateway-demo)** — A hands-on AI security demo with policy enforcement, Llama Guard, 
 and an interactive presentation.
